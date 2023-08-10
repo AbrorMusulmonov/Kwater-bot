@@ -5,7 +5,7 @@ from tabulate import tabulate
 from telebot import types
 
 # Telegram bot's token
-bot_token = "6424828696:AAFyKrVdSA1JGaX7wdF5PuoYp4DDsC2cE4g"
+bot_token = "6424828696"
 
 bot = telebot.TeleBot(bot_token)
 
